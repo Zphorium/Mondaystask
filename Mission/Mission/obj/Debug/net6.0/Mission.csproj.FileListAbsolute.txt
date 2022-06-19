@@ -1,0 +1,15 @@
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Mission\Mission\obj\Debug\net6.0\Mission.csproj.AssemblyReference.cache
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Mission\Mission\obj\Debug\net6.0\Mission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Mission\Mission\obj\Debug\net6.0\Mission.AssemblyInfoInputs.cache
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Mission\Mission\obj\Debug\net6.0\Mission.AssemblyInfo.cs
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Mission\Mission\obj\Debug\net6.0\Mission.csproj.CoreCompileInputs.cache
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Mission\Mission\bin\Debug\net6.0\Mission.exe
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Mission\Mission\bin\Debug\net6.0\Mission.deps.json
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Mission\Mission\bin\Debug\net6.0\Mission.runtimeconfig.json
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Mission\Mission\bin\Debug\net6.0\Mission.dll
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Mission\Mission\bin\Debug\net6.0\Mission.pdb
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Mission\Mission\obj\Debug\net6.0\Mission.dll
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Mission\Mission\obj\Debug\net6.0\refint\Mission.dll
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Mission\Mission\obj\Debug\net6.0\Mission.pdb
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Mission\Mission\obj\Debug\net6.0\Mission.genruntimeconfig.cache
+C:\Users\zulfu\OneDrive\Desktop\New lesson array\Mission\Mission\obj\Debug\net6.0\ref\Mission.dll
